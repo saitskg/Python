@@ -1,2 +1,16 @@
 Project
+1.
 #printing,inputting,commenting,debugging,name errors,syntax errors,string manipulation and variables
+flow----print-->string manipulation-->input---->len()---> variables--swapping question--> project
+
+2.
+#datatypes, numbers, operations, type_conversions, fstrings
+flow-->subscripting---> string ---> integer ---> large_integer(345_425_890)---> float--->boolean--->type_error--->type_check--->type_convertions len() example--->
+operators-->pemdaslr-->number_manipulation-->fstring
+
+3.
+#conditional statements, logical operators, code blocks and scope
+flow--> if-else-->conditional operators-->modulo operator-->nested_if-->if_else_if_else-->multiple_if-->logical_operaors-->
+(rollercoaster,pizza delivery)-->treasure_island_problem
+
+
