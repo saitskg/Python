@@ -1,0 +1,13 @@
+read_write file: https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+
+
+https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
+
+
+https://pandas.pydata.org/docs/
+
+
+https://pandas.pydata.org/docs/reference/index.html
+
+
+https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki
